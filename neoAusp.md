@@ -8,7 +8,7 @@
 ## 🐞 Bug Fixes
 - **Calendar:** Show only *visible* calendars (respect visibility settings).
 - **Profile:** Display **Package Number** on the profile screen.
-- **Search:** Add **Direct / Indirect** condition selection.
+- **Search:** Fixing **Direct / Indirect** condition selection.
 
 
 If anything looks off after updating, please report via line@. 🙏
