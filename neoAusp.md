@@ -10,8 +10,5 @@
 - **Profile:** Display **Package Number** on the profile screen.
 - **Search:** Add **Direct / Indirect** condition selection.
 
----
-**Version:** vNEXT  
-**Release Window:** TBD
 
 If anything looks off after updating, please report via line@. 🙏
