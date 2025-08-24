@@ -1,0 +1,17 @@
+# neoAusp — Next Release Announcement
+
+**Keyword:** `next release`
+
+## ✨ Feature
+- **Announcement, News & Updates page (iPad)** — Centralized screen for release notes and news, optimized for iPad layout.
+
+## 🐞 Bug Fixes
+- **Calendar:** Show only *visible* calendars (respect visibility settings).
+- **Profile:** Display **Package Number** on the profile screen.
+- **Search:** Add **Direct / Indirect** condition selection.
+
+---
+**Version:** vNEXT  
+**Release Window:** TBD
+
+If anything looks off after updating, please report via line@. 🙏
