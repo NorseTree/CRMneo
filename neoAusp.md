@@ -1,14 +1,10 @@
-# neoAusp — Next Release Announcement
+**ตารางเรียน**
 
-**Keyword:** `next release`
+`ตุลาคม`
+`5` `26`
 
-## ✨ Feature
-- **Announcement, News & Updates page (iPad)** — Centralized screen for release notes and news, optimized for iPad layout.
+`พฤศจิกายน` 
+`2` `16` `23` `30`
 
-## 🐞 Bug Fixes
-- **Calendar:** Show only *visible* calendars (respect visibility settings).
-- **Profile:** Display **Package Number** on the profile screen.
-- **Search:** Fixing **Direct / Indirect** condition selection.
-
-
-If anything looks off after updating, please report via line@. 🙏
+`ธันวาคม` 
+`14` `21` `28`
